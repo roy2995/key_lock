@@ -1,0 +1,2 @@
+# key_lock
+esp: esto es un codigo base para un recolector de claves que permite encriptar cada contraseña y cuendo las necesites te la desencripta paraque puedas verla por medio de una llave maestra que tu escojes     eng: this is a base code for a key collector that allows you to encrypt each password and when you need it, it decrypts it so that you can see it by means of a master key that you choose
